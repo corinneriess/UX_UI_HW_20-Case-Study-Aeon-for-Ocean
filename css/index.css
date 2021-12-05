@@ -1,0 +1,283 @@
+.container {
+    color: #E5E5E5;
+    padding-bottom: 50px; 
+}
+
+.customNav {
+    background-color:#002C23;
+    padding: 10px;
+}
+
+.display-4 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: right !important;
+    position:absolute;
+    bottom:160px;
+}
+
+.heading2 {
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #66887F !important;
+    color:#E5E5E5 !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100% !important;
+}
+
+.heading3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.heading4 {
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.CRlogo {
+    width:auto;
+    height: 50px;
+}
+
+.customNav a {
+    color: #E5E5E5 !important;
+}
+
+.navbar-nav {
+    margin-left:auto;
+    margin-right: 0 !important;
+}
+
+.heroBackground {
+    background-image: url(../Images/Hero.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height: 500px;
+}
+
+.heroContent {
+    color:#002C23;
+    size: 48px;
+}
+
+.desktopHome {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.originalWebpage {
+    height:auto;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.surveyScreenshot {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.affinityDiagram {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+
+}
+
+.parentPersona {
+    height:auto;
+    width: 900px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.childPersona {
+    height:auto;
+    width: 900px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.storyboard {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.row {
+    display: flex;
+}
+.column {
+    float: right;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 20px;
+  }
+
+  .existingSitemap {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+  }
+
+  .firstIterationSitemap {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+  }
+
+  .finalIterationSitemap {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+  }
+
+  .aeonLogo {
+    height: auto;
+    width: 200px;
+  }
+
+  .typography {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+  }
+
+  .icons {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .imageSamples {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+  }
+
+  .macbookHomeScreen {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+  .hoverStates {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+ 
+  .footerImage {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .mobileHomeScreen {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+  
+
+  
+.footer {
+    display: flex;
+    background-size: cover;
+    background-color: #66887F;
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    
+    
+}
+
+.columnB {
+    flex: 1;
+    background: #66887F;
+    word-spacing: unset;
+    column-width: 100px;
+}
+
+.column-one {
+    order:1; 
+}
+
+.column-two {
+    order:2;
+    
+.column-three {
+    order:3;
+}
+
+.column-four {
+    order:4;
+    
+}
+.column-five {
+    order:5;
+}
